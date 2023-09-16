@@ -1,0 +1,29 @@
+#color1{
+    color:silver;
+    background-color: black;
+}
+
+#color2{
+    color: #000000;
+    background-color: #ff1493;
+}
+
+#color3{
+    color: rgba(0, 0, 255, 1);
+    background-color: rgba(255, 255, 0, 1);
+}
+
+.color4{
+    color: red;
+    background-color: blue;
+}
+
+.color5{
+    color: #808080;
+    background-color: #c0c0c0;
+}
+
+.color6{
+  color: rgba(255, 0, 0, 1);
+  background-color: rgba(218, 165, 32, 1);
+}

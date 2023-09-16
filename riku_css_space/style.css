@@ -1,0 +1,27 @@
+#test-margin1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 50px;
+}
+
+#test-margin2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 50px 0;
+}
+
+.test-padding1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 50px;
+}
+
+.test-padding2{
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  padding: 0 50px;
+}

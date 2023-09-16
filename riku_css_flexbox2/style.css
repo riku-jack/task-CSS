@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.container{
+display: flex;
+  border: 1px solid black;
+  padding: 10px;
+  width: 600px;
+}
+
+.item{
+  border: 1px solid black;
+  width:calc((100% - 34px)/2) ;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.item:last-child{
+  margin-right: 0px;
+}
